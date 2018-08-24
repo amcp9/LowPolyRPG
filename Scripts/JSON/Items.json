@@ -1,0 +1,164 @@
+﻿[
+    {
+        "objectSlug": "sword",
+        "itemName": "Sword",
+        "description": "A long,sharp blade.",
+        "itemType": "Weapon",
+        "actionName": "Equip",
+        "itemModifier": 0,
+        "stats": [
+            {
+                "statType":"Power" ,
+                "baseValue": 2,
+                "statName": "Power"
+            },
+
+            {
+                "statType": "Toughness",
+                "baseValue": 4,
+                "statName": "Def"
+            },
+          {
+            "statType": "AttackSpeed",
+            "baseValue": 2,
+            "statName": "Speed"
+          }
+        ]
+    },
+  {
+    "objectSlug": "Flash",
+    "itemName": "Flash_Mod",
+    "description": "A mod which makes you can flash to a point",
+    "itemType": "Ablity",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+        "statType": "Power",
+        "baseValue": 0,
+        "statName": "Power"
+      },
+
+      {
+        "statType": "Toughness",
+        "baseValue": 0,
+        "statName": "Def"
+      },
+      {
+        "statType": "AttackSpeed",
+        "baseValue": 0,
+        "statName": "Speed"
+      }
+    ]
+  },
+  {
+    "objectSlug": "fire_Arround_mod",
+    "itemName": "Fire_Defense_Mod",
+    "description": "This is a Auto Attack Fire Mod",
+    "itemType": "Ablity",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+        "statType": "Power",
+        "baseValue": 0,
+        "statName": "Power"
+      },
+
+      {
+        "statType": "Toughness",
+        "baseValue": 0,
+        "statName": "Def"
+      },
+      {
+        "statType": "AttackSpeed",
+        "baseValue": 0,
+        "statName": "Speed"
+      }
+    ]
+  },
+  {
+    "objectSlug": "firestaff",
+    "itemName": "FireStaff",
+    "description": "A Wonderful magic staff!",
+    "itemType": "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+        "statType": "Power",
+        "baseValue": 10,
+        "statName": "Power"
+      },
+      
+      {
+        "statType": "Toughness",
+        "baseValue": 20,
+        "statName": "Def"
+      },
+      {
+        "statType": "AttackSpeed",
+        "baseValue": 2,
+        "statName": "Speed"
+      }
+    ]
+  },
+  {
+    "objectSlug": "staff",
+    "itemName": "Staff",
+    "description": "A magicful staff.",
+    "itemType": "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+        "statType": "Power",
+        "baseValue": 2,
+        "statName": "Power"
+      },
+      {
+        "statType": "Toughness",
+        "baseValue": 4,
+        "statName": "Def"
+      },
+      {
+        "statType": "AttackSpeed",
+        "baseValue": 2,
+        "statName": "Speed"
+      }
+    ]
+  },
+  {
+    "objectSlug": "Gun",
+    "itemName": "Gun",
+    "description": "A magicful staff.",
+    "itemType": "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+        "statType": "Power",
+        "baseValue": 2,
+        "statName": "Power"
+      },
+      {
+        "statType": "Toughness",
+        "baseValue": 4,
+        "statName": "Def"
+      },
+      {
+        "statType": "AttackSpeed",
+        "baseValue": 2,
+        "statName": "Speed"
+      }
+    ]
+  },
+    {
+        "objectSlug": "potion_log",
+        "itemName": "Log Potion",
+        "description": "A potion that logs something to the console.",
+        "itemType": "Consumeable",
+        "actionName": "Drink",
+        "itemModifier": 0
+    }
+]
